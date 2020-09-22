@@ -1,0 +1,26 @@
+html,body{
+	height: 100%;
+	width: 100%;
+	background-color: #f2f2f2;
+	padding: 0;
+	margin: 0;
+}
+
+
+nav{
+	height: 100%;
+	width: 25%;
+	overflow: hidden;
+	background-color: #fff;
+	float: left;
+}
+
+main{
+	width: 75%;
+	float: right;
+}
+
+.main h2{
+	padding: 0;
+	margin: 0;	
+}
